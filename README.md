@@ -9,7 +9,7 @@ A panel for rviz to obtain demonstrations. Primarily developed with PR2 in consi
 
 ### Screenshot
 ![Panel Screenshot][screenshot]
-[screenshot] screenshot.png
+[screenshot]: screenshot.png
 
 
 
