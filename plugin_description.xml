@@ -1,0 +1,11 @@
+<library path="lib/librviz_plugins">
+  <class name="rviz_hw_plugin/Demonstration Panel"
+         type="Demonstration_Panel"
+         base_class_type="rviz::Panel">
+    <description>
+      A panel widget allowing for robot demonstartions.
+    </description>
+  </class>
+</library>
+
+

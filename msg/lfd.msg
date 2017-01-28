@@ -1,0 +1,9 @@
+bool exit
+bool plan
+bool execute
+bool gripper_open
+bool gripper_close
+float32 head_tilt_angle
+bool head_tilt_action
+float32 head_pan_angle
+bool head_pan_action
